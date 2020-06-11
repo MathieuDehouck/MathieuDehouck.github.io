@@ -25,4 +25,16 @@ EMNLP 2018, Brussels, Belgium.
 
 ### 2017
 
+*   Delexicalized Word Embeddings for Cross-lingual Dependency Parsing.
+Mathieu Dehouck and Pascal Denis.
+EACL 2017, Valencia, Spain.
+[acl](https://www.aclweb.org/anthology/E/E17/E17-1023/)
+
+### 2013
+
+*    Pragmatic Visualizations for Roassal: a Florilegium.
+Mathieu Dehouck, Usman Bhatti, Alexandre Bergel, and Stéphane Ducasse.
+IWST 2013, Annecy, France.
+[hal](https://hal.inria.fr/hal-00862065)
+
 ### Thesis
