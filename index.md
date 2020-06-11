@@ -14,9 +14,15 @@ I prepared it in the Magnet team at Inria Lille, under the supervision of Pascal
 
 Syntactic analysis
 
+
 # Publications
 
 ### 2020
+
+*   Efficient EUD Parsing.  
+Mark Anderson, Mathieu Dehouck and Carlos Gómez-Rodríguez.  
+IWPT 2020 shared task, Covid-19 virtual venue.  
+[[iwpt]](https://iwpt20.sigparse.org/pdf/2020.iwpt-1.20.pdf)
 
 ### 2019
 
