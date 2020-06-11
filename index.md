@@ -6,6 +6,7 @@ layout: default
 title: Mathieu Dehouck
 ---
 
+
 # Research Interests
 
 Syntactic analysis
@@ -16,11 +17,22 @@ Syntactic analysis
 
 ### 2019
 
+*   Phylogenetic Multi-Lingual Dependency Parsing.  
+Mathieu Dehouck and Pascal Denis.  
+NAACL 2019, Minneapolis, USA.  
+[[acl]](https://www.aclweb.org/anthology/N19-1017/)
+
+
+* Modal sense classification with task-specific context embeddings.  
+Bo Li, Mathieu Dehouck and Pascal Denis.  
+ESANN 2019, Bruges, Belgium.  
+[[esann]](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2019-93.pdf)
+
 ### 2018
 
 *   A Framework for Understanding the Role of Morphology in Universal Dependency Parsing.  
 Mathieu Dehouck and Pascal Denis.  
-EMNLP 2018, Brussels, Belgium.  							
+EMNLP 2018, Brussels, Belgium.  
 [[acl]](https://www.aclweb.org/anthology/D18-1312/)
 
 ### 2017
@@ -43,3 +55,8 @@ IWST 2013, Annecy, France.
 [[hal]](https://hal.inria.fr/hal-00862065)  
 
 ### Thesis
+
+*   Multi-Lingual Dependency Parsing : Word Representation and Joint Training for Syntactic Analysis.  
+Mathieu Dehouck.  
+PhD thesis, 2019.  
+[[theses]](http://theses.fr/2019LIL1I019)
