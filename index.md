@@ -6,6 +6,9 @@ layout: default
 title: Mathieu Dehouck
 ---
 
+I am a post-doctoral researcher in natural language processing (NLP) at the university of A Coruña (Spain).
+I got my PhD in 2019 from the university of Lille.
+I prepared it in the Magnet team at Inria Lille, under the supervision of Pascal Denis and Marc Tommasi.
 
 # Research Interests
 
