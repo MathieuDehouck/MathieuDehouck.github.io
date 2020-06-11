@@ -12,8 +12,8 @@ I prepared it in the Magnet team at Inria Lille, under the supervision of Pascal
 
 # Research Interests
 
-Syntactic analysis
-
+I am mostly interested in syntactic analysis of natural languages in a multilingual environment.
+I am also interested in morphological analysis, low resource languages, historical linguistics and cross-lingual annotation consistency.
 
 # Publications
 
