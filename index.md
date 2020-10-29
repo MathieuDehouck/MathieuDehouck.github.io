@@ -13,8 +13,9 @@ I will join the Lattice team (CNRS) in January 2021.
 
 # Research Interests
 
-I am mostly interested in syntactic analysis of natural languages in a multilingual environment.
-I am also interested in morphological analysis, low resource languages, historical linguistics and cross-lingual annotation consistency.
+I am interested in several aspects of natural languages.
+Most of my work has focused on syntactic analysis in a multilingual environment.
+But I am also interested in morphological analysis, low resource languages, historical linguistics and cross-lingual annotation consistency, amongst other.
 
 # Publications
 
