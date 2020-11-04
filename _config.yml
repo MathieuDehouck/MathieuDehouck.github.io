@@ -23,6 +23,10 @@ description: Multilingual Natural Language Processing
 #  I got my PhD in 2019 from the university of Lille.
 #  I prepared it in the Magnet team at Inria Lille, under the supervision of Pascal Denis and Marc Tommasi.
 
+extralinks: |
+	    <li><a href="https://www.aclweb.org/anthology/people/m/mathieu-dehouck/"><img src="images/acl-logo.svg" alt="ACL Anthology"/></a></li>
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
