@@ -24,7 +24,7 @@ description: Multilingual Natural Language Processing
 #  I prepared it in the Magnet team at Inria Lille, under the supervision of Pascal Denis and Marc Tommasi.
 
 extralinks: |
-	    <li><a href="https://www.aclweb.org/anthology/people/m/mathieu-dehouck/"><img src="images/acl-logo.svg" alt="ACL Anthology"/></a></li>
+    <li><a href="https://www.aclweb.org/anthology/people/m/mathieu-dehouck/"><img src="images/acl-logo.svg" alt="ACL Anthology"/></a></li>
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
