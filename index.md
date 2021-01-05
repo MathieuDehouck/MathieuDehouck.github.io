@@ -21,6 +21,11 @@ But I am also interested in morphological analysis, low resource languages, hist
 
 ### 2020
 
+*   Data Augmentation via Subtree Swapping for Dependency Parsing of Low-Resource Languages.
+Mathieu Dehouck, Carlos Gómez-Rodríguez.
+Coling 2020, Covid-19 virtuql venue.
+[[acl]](https://www.aclweb.org/anthology/2020.coling-main.339.pdf)
+
 *   Efficient EUD Parsing.  
 Mark Anderson, Mathieu Dehouck and Carlos Gómez-Rodríguez.  
 IWPT 2020 shared task, Covid-19 virtual venue.  
