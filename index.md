@@ -6,16 +6,17 @@ layout: default
 title: Mathieu Dehouck
 ---
 
-I am a post-doctoral researcher in natural language processing (NLP) at the university of A Coruña (Spain).
+I am a researcher in natural language processing (NLP) in the Lattice team (CNRS).
 I got my PhD in 2019 from the university of Lille.
 I prepared it in the Magnet team at Inria Lille, under the supervision of Pascal Denis and Marc Tommasi.
-I will join the Lattice team (CNRS) in January 2021.
+I then did a post-doc of 18 months at the university of A Coruña (Spain) in the FastParse team of Carlos Gomez-Rodriguez until december 2020.
 
 # Research Interests
 
 I am interested in several aspects of natural languages.
 Most of my work has focused on syntactic analysis in a multilingual environment.
 But I am also interested in morphological analysis, low resource languages, historical linguistics and cross-lingual annotation consistency, amongst other.
+I also work on computability and complexity theory and related areas of computer science and mathematics.
 
 # Publications
 
@@ -23,7 +24,7 @@ But I am also interested in morphological analysis, low resource languages, hist
 
 *   Data Augmentation via Subtree Swapping for Dependency Parsing of Low-Resource Languages.  
 Mathieu Dehouck, Carlos Gómez-Rodríguez.  
-Coling 2020, Covid-19 virtuql venue.  
+Coling 2020, Covid-19 virtual venue.  
 [[acl]](https://www.aclweb.org/anthology/2020.coling-main.339.pdf)
 
 *   Efficient EUD Parsing.  
@@ -65,7 +66,7 @@ CLIN27, Leuven, Belgium. (abstract)
 
 ### 2013
 
-*    Pragmatic Visualizations for Roassal: a Florilegium.  
+*   Pragmatic Visualizations for Roassal: a Florilegium.  
 Mathieu Dehouck, Usman Bhatti, Alexandre Bergel, and Stéphane Ducasse.  
 IWST 2013, Annecy, France.  
 [[hal]](https://hal.inria.fr/hal-00862065)  
