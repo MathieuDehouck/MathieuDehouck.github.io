@@ -6,16 +6,17 @@ layout: default
 title: Mathieu Dehouck
 ---
 
-I am a researcher in natural language processing (NLP) in the Lattice team (CNRS).
-I got my PhD in 2019 from the university of Lille.
-I prepared it in the Magnet team at Inria Lille, under the supervision of Pascal Denis and Marc Tommasi.
-I then did a post-doc of 18 months at the university of A Coruña (Spain) in the FastParse team of Carlos Gomez-Rodriguez until december 2020.
+I am a researcher in natural language processing (NLP) in the [Lattice](https://www.lattice.cnrs.fr) team (CNRS).
+I got my PhD in 2019 from the university of Lille (France).
+I prepared it in the [Magnet] (https://team.inria.fr/magnet/) team at Inria Lille, under the supervision of Pascal Denis and Marc Tommasi.
+I then did a post-doc of 18 months at the university of A Coruña (Spain) in the [FastParse](https://fastparse.grupolys.org) team of Carlos Gómez-Rodríguez until december 2020.
 
 # Research Interests
 
 I am interested in several aspects of natural languages.
 Most of my work has focused on syntactic analysis in a multilingual environment.
 But I am also interested in morphological analysis, low resource languages, historical linguistics and cross-lingual annotation consistency, amongst other.
+
 I also work on computability and complexity theory and related areas of computer science and mathematics.
 
 # Publications
