@@ -23,19 +23,19 @@ I also work on computability and complexity theory and related areas of computer
 
 ### 2021
 
-*   A Falta de Pan, Buenas Son Tortas: The Efficacy of Predicted UPOS Tags for Low Resource UD Parsing.
-Mark Anderson, Mathieu Dehouck and Carlos Gómez-Rodríguez.
-IWPT 2021, Covid-19 virtual venue.
+*   A Falta de Pan, Buenas Son Tortas: The Efficacy of Predicted UPOS Tags for Low Resource UD Parsing.  
+Mark Anderson, Mathieu Dehouck and Carlos Gómez-Rodríguez.  
+IWPT 2021, Covid-19 virtual venue.  
 [[arXiv]](https://arxiv.org/abs/2106.04222)
 
-*   Revisiting modal sense classification with state-of-the-art language models.
-Mathieu Dehouck and Pascal Denis.
-ISLE 6 workshops: Rethinking English modal constructions: From feature-based paradigms to usage-based probabilistic representations, June 2021, Covid-19 virtual venue. (abstract)
+*   Revisiting modal sense classification with state-of-the-art language models.  
+Mathieu Dehouck and Pascal Denis.  
+ISLE 6 workshops: Rethinking English modal constructions: From feature-based paradigms to usage-based probabilistic representations, June 2021, Covid-19 virtual venue. (abstract)  
 [[isle]](https://sites.uef.fi/isle6/program/pre-conference-workshops/workshop-modals/)
 
-*   La phylogénie des langues au service de l’analyse automatique
-Mathieu Dehouck and Pascal Denis.
-La lettre de l’InSHS, n. 69, January 2021.
+*   La phylogénie des langues au service de l’analyse automatique.  
+Mathieu Dehouck and Pascal Denis.  
+La lettre de l’InSHS, n. 69, January 2021.  
 [[cnrs]](https://www.inshs.cnrs.fr/fr/lettres-de-linshs-0)
 
 ### 2020
