@@ -21,10 +21,27 @@ I also work on computability and complexity theory and related areas of computer
 
 # Publications
 
+### 2021
+
+*   A Falta de Pan, Buenas Son Tortas: The Efficacy of Predicted UPOS Tags for Low Resource UD Parsing.
+Mark Anderson, Mathieu Dehouck and Carlos Gómez-Rodríguez.
+IWPT 2021, Covid-19 virtual venue.
+[[arXiv]](https://arxiv.org/abs/2106.04222)
+
+*   Revisiting modal sense classification with state-of-the-art language models.
+Mathieu Dehouck and Pascal Denis.
+ISLE 6 workshops: Rethinking English modal constructions: From feature-based paradigms to usage-based probabilistic representations, June 2021, Covid-19 virtual venue. (abstract)
+[[isle]](https://sites.uef.fi/isle6/program/pre-conference-workshops/workshop-modals/)
+
+*   La phylogénie des langues au service de l’analyse automatique
+Mathieu Dehouck and Pascal Denis.
+La lettre de l’InSHS, n. 69, January 2021.
+[[cnrs]](https://www.inshs.cnrs.fr/fr/lettres-de-linshs-0)
+
 ### 2020
 
 *   Data Augmentation via Subtree Swapping for Dependency Parsing of Low-Resource Languages.  
-Mathieu Dehouck, Carlos Gómez-Rodríguez.  
+Mathieu Dehouck and Carlos Gómez-Rodríguez.  
 Coling 2020, Covid-19 virtual venue.  
 [[acl]](https://www.aclweb.org/anthology/2020.coling-main.339.pdf)
 
