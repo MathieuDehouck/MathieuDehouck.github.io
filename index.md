@@ -21,11 +21,18 @@ I also work on computability and complexity theory and related areas of computer
 
 # Publications
 
+### 2022
+
+*   The 𐌉𐌊𐌖𐌅𐌉𐌍𐌀 Treebank.
+Mathieu Dehouck.
+LT4HALA (LREC 2022 workshop), Marseille, France.
+[[lrec]](http://www.lrec-conf.org/proceedings/lrec2022/workshops/LT4HALA/pdf/2022.lt4hala2022-1.6.pdf)
+
 ### 2021
 
 *   A Falta de Pan, Buenas Son Tortas: The Efficacy of Predicted UPOS Tags for Low Resource UD Parsing.  
 Mark Anderson, Mathieu Dehouck and Carlos Gómez-Rodríguez.  
-IWPT 2021, Covid-19 virtual venue.  
+IWPT 2021, Covid-19 virtual venue.
 [[arXiv]](https://arxiv.org/abs/2106.04222)
 
 *   Revisiting modal sense classification with state-of-the-art language models.  
