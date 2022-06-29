@@ -15,11 +15,14 @@ I then did a post-doc of 18 months at the university of A Coruña (Spain) in the
 
 I am interested in several aspects of natural languages.
 Most of my work has focused on syntactic analysis in a multilingual environment.
-But I am also interested in morphological analysis, low resource languages (with big populations or with very small ones), historical linguistics and cross-lingual annotation consistency, amongst other.
+But I am also interested in morphological analysis, low resource languages (with big populations or with very small ones), historical linguistics, epigraphy and cross-lingual annotation consistency, amongst other.
 
 I also work on computability and complexity theory and related areas of computer science and mathematics.
 
 
+# In Progress
+
+I am the main annotator behind the 𐌉𐌊𐌖𐌅𐌉𐌍𐌀 dependency treebank, a [Universal Dependencies](https://universaldependencies.org/#language-) treebank for Umbrian.
 
 
 # Publications
