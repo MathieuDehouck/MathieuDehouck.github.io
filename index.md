@@ -26,7 +26,7 @@ I also work on computability and complexity theory and related areas of computer
 
 ### 2022
 
-*   The 𐌉𐌊𐌖𐌅𐌉𐌍𐌀 Treebank.
+*   The 𐌉𐌊𐌖𐌅𐌉𐌍𐌀 Treebank.  
 Mathieu Dehouck.  
 LT4HALA (LREC 2022 workshop), Marseille, France.  
 [[lrec]](http://www.lrec-conf.org/proceedings/lrec2022/workshops/LT4HALA/pdf/2022.lt4hala2022-1.6.pdf)
