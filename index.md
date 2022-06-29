@@ -15,24 +15,27 @@ I then did a post-doc of 18 months at the university of A Coruña (Spain) in the
 
 I am interested in several aspects of natural languages.
 Most of my work has focused on syntactic analysis in a multilingual environment.
-But I am also interested in morphological analysis, low resource languages, historical linguistics and cross-lingual annotation consistency, amongst other.
+But I am also interested in morphological analysis, low resource languages (with big populations or with very small ones), historical linguistics and cross-lingual annotation consistency, amongst other.
 
 I also work on computability and complexity theory and related areas of computer science and mathematics.
+
+
+
 
 # Publications
 
 ### 2022
 
 *   The 𐌉𐌊𐌖𐌅𐌉𐌍𐌀 Treebank.
-Mathieu Dehouck.
-LT4HALA (LREC 2022 workshop), Marseille, France.
+Mathieu Dehouck.  
+LT4HALA (LREC 2022 workshop), Marseille, France.  
 [[lrec]](http://www.lrec-conf.org/proceedings/lrec2022/workshops/LT4HALA/pdf/2022.lt4hala2022-1.6.pdf)
 
 ### 2021
 
 *   A Falta de Pan, Buenas Son Tortas: The Efficacy of Predicted UPOS Tags for Low Resource UD Parsing.  
 Mark Anderson, Mathieu Dehouck and Carlos Gómez-Rodríguez.  
-IWPT 2021, Covid-19 virtual venue.
+IWPT 2021, Covid-19 virtual venue.  
 [[arXiv]](https://arxiv.org/abs/2106.04222)
 
 *   Revisiting modal sense classification with state-of-the-art language models.  
@@ -102,3 +105,10 @@ IWST 2013, Annecy, France.
 Mathieu Dehouck.  
 PhD thesis, 2019.  
 [[theses]](http://theses.fr/2019LIL1I019)
+
+
+
+
+
+
+
