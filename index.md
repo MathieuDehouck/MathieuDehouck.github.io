@@ -8,7 +8,7 @@ title: Mathieu Dehouck
 
 I am a researcher in natural language processing (NLP) in the [Lattice](https://www.lattice.cnrs.fr) team (CNRS).
 I got my PhD in 2019 from the university of Lille (France).
-I prepared it in the [Magnet] (https://team.inria.fr/magnet/) team at Inria Lille, under the supervision of Pascal Denis and Marc Tommasi.
+I prepared it in the [Magnet](https://team.inria.fr/magnet/) team at Inria Lille, under the supervision of Pascal Denis and Marc Tommasi.
 I then did a post-doc of 18 months at the university of A Coruña (Spain) in the [FastParse](https://fastparse.grupolys.org) team of Carlos Gómez-Rodríguez until december 2020.
 
 # Research Interests
@@ -17,12 +17,16 @@ I am interested in several aspects of natural languages.
 Most of my work has focused on syntactic analysis in a multilingual environment.
 But I am also interested in morphological analysis, low resource languages (with big populations or with very small ones), historical linguistics, epigraphy and cross-lingual annotation consistency, amongst other.
 
-I also work on computability and complexity theory and related areas of computer science and mathematics.
+I am also interested in computability and complexity theory and related areas of computer science and mathematics.
 
 
 # In Progress
 
 I am the main annotator behind the 𐌉𐌊𐌖𐌅𐌉𐌍𐌀 dependency treebank, a [Universal Dependencies](https://universaldependencies.org/#language-) treebank for Umbrian.
+
+# Internships
+
+I am always happy to have interns. I am currently looking for someone to work on a language evolution project, see [this](https://mathieudehouck.github.io/Evolution.pdf) for more details.
 
 
 # Publications
