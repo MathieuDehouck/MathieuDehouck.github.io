@@ -114,8 +114,29 @@ PhD thesis, 2019.
 [[theses]](http://theses.fr/2019LIL1I019)
 
 
+## Chapters in books
+
+*   Models of Modals: From Pragmatics and Corpus Linguistics to Machine Learning.   
+Ilse Depraetere, Bert Cappelle, Martin Hilpert, Ludovic De Cuypere, Mathieu Dehouck, Pascal Denis, Susanne Flach, Natalia Grabar, Cyril Grandin, Thierry Hamon, Clemens Hufeld, Benoît Leclercq, and Hans-Jörg Schmid.   
+De Gruyter Mouton, 2023.   
+[[De Gruyter Mouton]](https://www.degruyter.com/document/doi/10.1515/9783110734157/html#Vancouver)
 
 
+# Teaching
+
+Sorbonne Nouvelle    
+Introduction au TAL
+Synthèse du TAL    
+
+
+(Centrale / Mines / Université de Lille)    
+Natural Language Processing
+
+
+Foundation of Computation (3rd year Bachelor degree, Université de Lille) (Fall 2017).  
+Projects in Computer Science for Humanities (2nd year Bachelor degree, Université de Lille) (Fall 2016, Fall 2017).  
+Principles of Network Technologies (1nd year Bachelor degree, Université de Lille) (Spring 2017, Spring 2018).  
+Computer Science and Technologies (2nd year Bachelor degree, Université de Lille) (Spring 2017).  
 
 
 
