@@ -26,7 +26,8 @@ I am the main annotator behind the 𐌉𐌊𐌖𐌅𐌉𐌍𐌀 dependency treeb
 
 # Internships
 
-I am always happy to have interns. I am currently looking for someone to work on a language evolution project, see [this](https://mathieudehouck.github.io/Evolution.pdf) for more details.
+I am always happy to have interns.
+I have a running language evolution project that is currently occupied but might eventually reopen, see [this](https://mathieudehouck.github.io/Evolution.pdf) for more details.
 
 
 # Publications
@@ -125,7 +126,7 @@ De Gruyter Mouton, 2023.
 # Teaching
 
 Sorbonne Nouvelle    
-Introduction au TAL
+Introduction au TAL    
 Synthèse du TAL    
 
 
