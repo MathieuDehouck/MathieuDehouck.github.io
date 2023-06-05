@@ -112,7 +112,7 @@ IWST 2013, Annecy, France.
 *   Multi-Lingual Dependency Parsing : Word Representation and Joint Training for Syntactic Analysis.  
 Mathieu Dehouck.  
 PhD thesis, 2019.  
-[[theses]](http://theses.fr/2019LIL1I019)
+[[theses]](http://theses.fr/2019LILUI019)
 
 
 ## Chapters in books
