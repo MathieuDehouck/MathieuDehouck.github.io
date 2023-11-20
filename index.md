@@ -37,7 +37,7 @@ I have a running language evolution project that is currently occupied but might
 *   Génération automatique de jeux de mots à base de prénoms.
 Mathieu Dehouck et Marine Delaborde.  
 CORIA-TALN 2023, Paris, France.  
-[[TALN]]https://coria-taln-2023.sciencesconf.org/477287
+[[TALN]](https://coria-taln-2023.sciencesconf.org/477287)
 
 ### 2022
 
