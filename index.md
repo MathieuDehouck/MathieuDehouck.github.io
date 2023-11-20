@@ -32,6 +32,13 @@ I have a running language evolution project that is currently occupied but might
 
 # Publications
 
+### 2023
+
+*   Génération automatique de jeux de mots à base de prénoms.
+Mathieu Dehouck et Marine Delaborde.  
+CORIA-TALN 2023, Paris, France.  
+[[TALN]]https://coria-taln-2023.sciencesconf.org/477287
+
 ### 2022
 
 *   The 𐌉𐌊𐌖𐌅𐌉𐌍𐌀 Treebank.  
@@ -132,7 +139,7 @@ De Gruyter Mouton, 2023.
 
 # Teaching
 
-Sorbonne Nouvelle    
+Sorbonne Nouvelle
 Introduction au TAL    
 Synthèse du TAL    
 
