@@ -34,7 +34,19 @@ I have a running language evolution project that is currently occupied but might
 
 ### 2023
 
-*   Génération automatique de jeux de mots à base de prénoms.
+*   EvoSem: A database of polysemous cognate sets.  
+Mathieu Dehouck, Alexandre François, David Kletz, Siva Kalyan, Martial Pastor.  
+4th Workshop on Computational Approaches to Historical Language Change (LChange'23), Dec 2023, Singapore (SG), Singapore.
+[[ACL]](https://aclanthology.org/2023.lchange-1.7/)
+[[HAL]](https://hal.science/hal-04334782)
+
+*   Challenging the "One Single Vector per Token" Assumption.  
+Mathieu Dehouck.  
+The SIGNLL Conference on Computational Natural Language Learning, Dec 2023, Singapore, Singapore.  
+[[ACL]](https://aclanthology.org/2023.conll-1.33/)
+[[HAL]](https://hal.science/hal-04334826)
+
+*   Génération automatique de jeux de mots à base de prénoms.  
 Mathieu Dehouck et Marine Delaborde.  
 CORIA-TALN 2023, Paris, France.  
 [[TALN]](https://coria-taln-2023.sciencesconf.org/477287)
@@ -134,24 +146,35 @@ De Gruyter Mouton, 2023.
 
 ### 2022
 
+*   Profiterole : un corpus morpho-syntaxique et syntaxique de français médiéval.  
+Sophie Prévost, Loïc Grobol, Mathieu Dehouck, Alexey Lavrentev and Serge Heiden.  
+Concordial 2022, Grenoble, France.  
+
+### 2021
+
+*   Multi-Lingual Dependency Parsing : Word Representation and Joint Training for Syntactic Analysis.
+TALN-RECITAL 2021, Lille, France. (CoVid 2019 - Online).  
+Invited speaker as recipient of the ATALA thesis of the year award 2020.  
 
 
 
 # Teaching
 
-Sorbonne Nouvelle
-Introduction au TAL    
-Synthèse du TAL    
+*   Université Sorbonne Nouvelle (Paris):
+Traitement automatique du langage. (LZSY005) (2021-2022, 2022-2023, 2023-2024)  
+Traitement automatique du langage (ENEAD). (LYSY009) (2022-2023)
 
 
-(Centrale / Mines / Université de Lille)    
-Natural Language Processing
+
+*   Centrale Lille, Mines de Douai, Université de Lille (Villeneuve d'Ascq):  
+Natural Language Processing. (2021-2022, 2022-2023, 2023-2024)  
 
 
-Foundation of Computation (3rd year Bachelor degree, Université de Lille) (Fall 2017).  
-Projects in Computer Science for Humanities (2nd year Bachelor degree, Université de Lille) (Fall 2016, Fall 2017).  
-Principles of Network Technologies (1nd year Bachelor degree, Université de Lille) (Spring 2017, Spring 2018).  
-Computer Science and Technologies (2nd year Bachelor degree, Université de Lille) (Spring 2017).  
+*   Université de Lille (Villeneuve d'Ascq):  
+Foundation of Computation (3rd year Bachelor degree) (Fall 2017).  
+Projects in Computer Science for Humanities (2nd year Bachelor degree) (Fall 2016, Fall 2017).  
+Principles of Network Technologies (1nd year Bachelor degree) (Spring 2017, Spring 2018).  
+Computer Science and Technologies (2nd year Bachelor degree) (Spring 2017).  
 
 
 
