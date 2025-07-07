@@ -32,6 +32,31 @@ I have a running language evolution project that is currently occupied but might
 
 # Publications
 
+### 2025
+
+*	Comparative Concepts or Descriptive Categories: a UD Case study.  
+Matthieu Pierre Boyer, Mathieu Dehouck.  
+The Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025), Tallinn, Estonia.
+[[ACL]](https://aclanthology.org/2025.nodalida-1.7/)  
+
+*	Lattice @MultiGEC-2025: A Spitful Multilingual Language Error Correction System Using LLaMA.  
+Olga Seminck, Yoann Dupont, Mathieu Dehouck, Qi Wang, Noé Durandard, Margo Novikov.  
+The 14th Workshop on Natural Language Processing for Computer Assisted Language Learning.  
+(NoDaLiDa/Baltic-HLT 2025), Tallinn, Estonia.  
+[[ACL]](https://aclanthology.org/2025.nlp4call-1.2/)  
+
+*	Rule-based Approaches to the Automatic Generation of Puns Based on Given Names in French.  
+Mathieu Dehouck and Marine Delaborde.  
+The 1st Workshop on Computational Humor (CHum 2025), Online, collocated with The 31st International Conference on Computational Linguistics (COLING 25), Abu Dhabi, United Arab Emirates.  
+[[ACL]](https://aclanthology.org/2025.chum-1.3/)
+
+### 2024
+
+*	Profiterole : un corpus morpho-syntaxique et syntaxique de français médiéval.  
+Sophie Prévost, Loïc Grobol, Mathieu Dehouck, Alexei Lavrentiev, Serge Heiden.  
+Corpus, 2024, La constitution de corpus en diachronie longue. Méthodologies, objectifs et exploitations linguistiques et stylistiques.  
+[[Corpus]](https://doi.org/10.4000/corpus.8538)  
+
 ### 2023
 
 *   EvoSem: A database of polysemous cognate sets.  
