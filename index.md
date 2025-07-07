@@ -19,10 +19,11 @@ But I am also interested in morphological analysis, low resource languages (with
 
 I am also interested in computability and complexity theory and related areas of computer science and mathematics.
 
-
 # In Progress
 
 I am the main annotator behind the 𐌉𐌊𐌖𐌅𐌉𐌍𐌀 dependency treebank, a [Universal Dependencies](https://universaldependencies.org/#language-) treebank for Umbrian.
+
+I have a project about oïl languages that aims at understanding the role of neighbouring languages (Germanic, Celtic and other Romance languages) on the syntactic evolution of these languages from the northern half of France, Belgium, Luxembourg, Switzerland and the Channel islands.
 
 # Internships
 
