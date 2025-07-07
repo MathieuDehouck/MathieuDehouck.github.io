@@ -192,10 +192,13 @@ Invited speaker as recipient of the ATALA thesis of the year award 2020.
 # Teaching
 
 *   Université Sorbonne Nouvelle (Paris):  
-Programmation et Algorithmique. (L8DN003). (2023-2024)  
+Programmation et Algorithmique. (L8DN003). (2023-2024, 2024-2025)  
 Traitement automatique du langage. (LZSY005) (2021-2022, 2022-2023, 2023-2024)  
 Traitement automatique du langage (ENEAD). (LYSY009) (2022-2023)
 
+
+*	PSL, CPES Science des données, art et culture (Paris):  
+Traitement automatique du langage et littérature. (2024-2025)  
 
 
 *   Centrale Lille, Mines de Douai, Université de Lille (Villeneuve d'Ascq):  
