@@ -36,7 +36,7 @@ I have a running language evolution project that is currently occupied but might
 
 *	Comparative Concepts or Descriptive Categories: a UD Case study.  
 Matthieu Pierre Boyer, Mathieu Dehouck.  
-The Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025), Tallinn, Estonia.
+The Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025), Tallinn, Estonia.  
 [[ACL]](https://aclanthology.org/2025.nodalida-1.7/)  
 
 *	Lattice @MultiGEC-2025: A Spitful Multilingual Language Error Correction System Using LLaMA.  
@@ -168,6 +168,12 @@ De Gruyter Mouton, 2023.
 
 
 ## Communications
+
+### 2024
+
+*	Comparaison de deux approches pour l’analyse syntaxique du français et du latin en diachronie.  
+Mathieu Dehouck, Sophie Prévost, Mathilde Regnault, Loïc Grobol.  
+Concordial 2024, Lyon, France.  
 
 ### 2022
 
