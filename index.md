@@ -35,6 +35,13 @@ I have a running language evolution project that is currently occupied but might
 
 ### 2025
 
+*	Explicit Edge Length Coding to Improve Long Sentence Parsing Performance.  
+Khensa Daoudi, Mathieu Dehouck, Rayan Ziane, Natasha Romanova.  
+Proceedings of the First Workshop on Advancing NLP for Low-Resource Languages.  
+Varna, Bulgaria.
+[[ACL]](https://aclanthology.org/2025.lowresnlp-1.11/)
+[[HAL]](https://hal.science/hal-05376449v1)
+
 *	Comparative Concepts or Descriptive Categories: a UD Case study.  
 Matthieu Pierre Boyer, Mathieu Dehouck.  
 The Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025), Tallinn, Estonia.  
@@ -193,13 +200,13 @@ Invited speaker as recipient of the ATALA thesis of the year award 2020.
 # Teaching
 
 *   Université Sorbonne Nouvelle (Paris):  
-Programmation et Algorithmique. (L8DN003). (2023-2024, 2024-2025)  
+Programmation et Algorithmique. (L8DN003). (2023-2024, 2024-2025).  (LZSET02). (2025-2026)
 Traitement automatique du langage. (LZSY005) (2021-2022, 2022-2023, 2023-2024)  
 Traitement automatique du langage (ENEAD). (LYSY009) (2022-2023)
 
 
 *	PSL, CPES Science des données, art et culture (Paris):  
-Traitement automatique du langage et littérature. (2024-2025)  
+Traitement automatique du langage et littérature. (2024-2025, 2025-2026)  
 
 
 *   Centrale Lille, Mines de Douai, Université de Lille (Villeneuve d'Ascq):  
@@ -212,5 +219,11 @@ Projects in Computer Science for Humanities (2nd year Bachelor degree) (Fall 201
 Principles of Network Technologies (1nd year Bachelor degree) (Spring 2017, Spring 2018).  
 Computer Science and Technologies (2nd year Bachelor degree) (Spring 2017).  
 
+
+
+# Science and Society
+
+*	Fête de la Science, October 2025, CY Cergy Paris Université.  
+	Presentation of the AliGator pun generator and introduction to the International Phonetic Alphabet through a board game.
 
 
