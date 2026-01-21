@@ -35,6 +35,12 @@ I have a running language evolution project that is currently occupied but might
 
 ### 2025
 
+*	GLaRef@CRAC2025: Should we transform coreference resolution into a text generation task?  
+Olga Seminck, Antoine Bourgois, Yoann Dupont, Mathieu Dehouck, Marine Delaborde.  
+Proceedings of the Eighth Workshop on Computational Models of Reference, Anaphora and Coreference.  
+Suzhou, China.  
+[[ACL]](https://aclanthology.org/2025.crac-1.10/)
+
 *	Explicit Edge Length Coding to Improve Long Sentence Parsing Performance.  
 Khensa Daoudi, Mathieu Dehouck, Rayan Ziane, Natasha Romanova.  
 Proceedings of the First Workshop on Advancing NLP for Low-Resource Languages.  
