@@ -38,7 +38,7 @@ I have a running language evolution project that is currently occupied but might
 *	Explicit Edge Length Coding to Improve Long Sentence Parsing Performance.  
 Khensa Daoudi, Mathieu Dehouck, Rayan Ziane, Natasha Romanova.  
 Proceedings of the First Workshop on Advancing NLP for Low-Resource Languages.  
-Varna, Bulgaria.
+Varna, Bulgaria.  
 [[ACL]](https://aclanthology.org/2025.lowresnlp-1.11/)
 [[HAL]](https://hal.science/hal-05376449v1)
 
