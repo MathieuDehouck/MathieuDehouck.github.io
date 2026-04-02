@@ -225,11 +225,18 @@ Projects in Computer Science for Humanities (2nd year Bachelor degree) (Fall 201
 Principles of Network Technologies (1nd year Bachelor degree) (Spring 2017, Spring 2018).  
 Computer Science and Technologies (2nd year Bachelor degree) (Spring 2017).  
 
+## Resources
+
+*	Un [[cours d'algorithmique]](cours/main.pdf) pour les étudiants TAListes. UNDER CONSTRUCTION
 
 
 # Science and Society
 
 *	Fête de la Science, October 2025, CY Cergy Paris Université.  
 	Presentation of the AliGator pun generator and introduction to the International Phonetic Alphabet through a board game.
+
+
+
+
 
 
